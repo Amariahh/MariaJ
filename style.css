@@ -1,17 +1,16 @@
-body {
+pbody {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
 }
 ul { 
-    list-style-type: none;
-    margin: ; 
-    padding: 0; 
-    overflow: hidden;
+    margin-left: 60%
 } 
 
 li { 
-    float: left; 
+    color: #e8663b;
+    display: inline-block;
+    margin: 3%;
 }
 
 header {

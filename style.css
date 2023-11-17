@@ -61,12 +61,15 @@ h2 {
 }
 
 ul {
+    color:AntiqueWhite;
     list-style-type: none;
     padding: 0;
 }
 
 li {
     margin-bottom: 10px;
+    
+    color: AntiqueWhite;
 }
 
 footer {

@@ -9,7 +9,7 @@ ul {
 
 li { 
     color: #e8663b;
-    display: inline-block;
+    display: left;
     margin: 3%;
 }
 

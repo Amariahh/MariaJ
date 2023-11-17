@@ -13,7 +13,7 @@ body {
 
 .main-nav li a
 { 
-    color: #e8663b;
+    color: FFB6C1;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto",sans-serif;
@@ -47,7 +47,7 @@ img {
 }
 
 h2 {
-    color: #333;
+    color: FFE4E1;
 }
 
 ul {

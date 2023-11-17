@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: 1px solid White;
+  color: White;
   text-align: center
 }
 
@@ -22,7 +22,7 @@ p {
 
 .main-nav li a
 { 
-   text-color:1px solid White;
+   text-color:White;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto",sans-serif;
@@ -30,13 +30,13 @@ p {
 }
 .main-nav li a:hover
 {
-    border: 1px solid white;
+    border: White;
 }
     
     
 header {
     
-    text-color: FFB6C1;
+    text-color: White;
     text-align: center;
     padding: 50px;
 }

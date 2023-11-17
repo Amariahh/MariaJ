@@ -6,6 +6,15 @@ body {
     padding: 0;
 }
 
+h1 {
+  color: AntiqueWhite;
+  text-align: center
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 .main-nav li
 { 
     display: inline-block;
@@ -13,7 +22,7 @@ body {
 
 .main-nav li a
 { 
-   text-color: FFB6C1;
+   text-color:AntiqueWhite;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto",sans-serif;

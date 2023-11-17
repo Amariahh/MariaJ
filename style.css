@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: White;
+  color: AntiqueWhite;
   text-align: center
 }
 
@@ -22,7 +22,7 @@ p {
 
 .main-nav li a
 { 
-   text-color:White;
+   text-color: 1px solid White;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto",sans-serif;
@@ -36,7 +36,7 @@ p {
     
 header {
     
-    text-color: White;
+    text-color: AntiqueWhite;
     text-align: center;
     padding: 50px;
 }

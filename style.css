@@ -8,11 +8,12 @@ body {
 
 h1 {
   color: AntiqueWhite;
-  text-align: center
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
 }
 
 p {
-  font-family: verdana;
+  font-family: 'Dancing Script', cursive;
   font-size: 20px;
 }
 .main-nav li
@@ -25,7 +26,7 @@ p {
    color: 1px solid White;
     text-decoration: none;
     padding: 5px 20px;
-    font-family: "Roboto",sans-serif;
+    font-family: 'Dancing Script', cursive;
     font-size: 15px;
 }
 
@@ -33,7 +34,7 @@ p {
     
     
 header {
-    
+    font-family: 'Dancing Script', cursive;
     color: AntiqueWhite;
     text-align: center;
     padding: 50px;
@@ -56,6 +57,7 @@ img {
 
 h2 {
     color: AntiqueWhite;
+    font-family: 'Dancing Script', cursive;
 }
 
 ul {
@@ -66,7 +68,7 @@ ul {
 
 li {
     margin-bottom: 10px;
-    
+    font-family: 'Dancing Script', cursive;
     color: AntiqueWhite;
 }
 
